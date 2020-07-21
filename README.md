@@ -7,7 +7,7 @@ Soy un joven chileno apasionado por aprender sobre tecnología
 
 ## Contacto
 
-- [Linkedin](https://www.linkedin.com/in/ikenshu/)
+- [Linkedin](https://www.linkedin.com/in/joaquin16602/)
 - [Email](joaquin16602@gmail.com)
 
 
