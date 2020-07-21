@@ -1,4 +1,15 @@
-### Hi there 👋
+# Joaquín Núñez - @joaquin16602
+
+## Hola 👋
+
+Soy un joven chileno apasionado por aprender sobre tecnología
+- 💭 Pregúntame todo lo que quieras.
+
+## Contacto
+
+- [Linkedin](https://www.linkedin.com/in/ikenshu/)
+- [Email](joaquin16602@gmail.com)
+
 
 <!--
 **joaquin16602/joaquin16602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
