@@ -1,4 +1,4 @@
-# Joaquín Núñez - @joaquin16602
+# Joaquín Núñez Donoso - @joaquin16602
 
 ## Hola 👋
 
