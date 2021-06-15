@@ -2,7 +2,22 @@
 
 ## Hola 👋
 
-Soy un joven chileno apasionado por aprender sobre tecnología
+Desarrollador de software apasionado por aprender sobre tecnología. Con experiencia laboral en temas variados como web scraping, creación de apis y construcción de sistemas web.
+Habilidad y disposición para adquirir nuevos conocimientos e integrarse a equipos de trabajo, soy organizado y aprendo rápido.
+También me gusta leer, los videojuegos, ver series y viajar.
+
+Actualmente cursando estudios en ingeniería de ejecución informática mención desarrollo de sistemas
+
+Con conocimientos en:
+Python (Django, flask, procesamiento de datos, beautiful soup, selenium, etc)
+Nodejs
+React
+Express
+MySql
+Javascript, html y css
+Bootstrap
+GIT
+
 - 💭 Pregúntame todo lo que quieras.
 
 ## Contacto
