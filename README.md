@@ -12,6 +12,7 @@ Con conocimientos en:
 - Python (Django, flask, procesamiento de datos, beautiful soup, selenium, etc)
 - Nodejs
 - React
+- Angular
 - Express
 - MySql
 - Javascript, html y css
