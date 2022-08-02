@@ -9,12 +9,13 @@ También me gusta leer, los videojuegos, ver series y viajar.
 Actualmente cursando estudios en ingeniería de ejecución informática mención desarrollo de sistemas
 
 Con conocimientos en:
-- Python (Django, flask, procesamiento de datos, beautiful soup, selenium, etc)
+- Python (Django, flask, procesamiento de datos, selenium, etc)
 - Nodejs
 - React
 - Angular
 - Express
 - MySql
+- MongoDB
 - Javascript, html y css
 - Bootstrap
 - GIT
